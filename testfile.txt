@@ -1,1 +1,1 @@
-This file is reachable from https://ignitusAI.github.com/downloads/testfile.txt
+This file is reachable from https://ignitusAI.github.io/downloads/testfile.txt
